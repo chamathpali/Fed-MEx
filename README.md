@@ -30,3 +30,6 @@ Reference models are availble in the FedSim implementation here.
 [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/MEx)
 
 [GitHub](https://github.com/anjanaw/mex)
+
+### Other datasets
+[Fed-Goodreads](https://github.com/chamathpali/Fed-Goodreads/)
