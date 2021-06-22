@@ -1,5 +1,5 @@
 # Fed-MEx
-**Fed-MEx is the Federated Version** of the MEx Human Activity Recognition dataset
+**Fed-MEx is the Federated Version** of the MEx Human Activity Recognition dataset. Pressure mat subset is used in this dataset.
 
 [MEx](https://archive.ics.uci.edu/ml/datasets/MEx) is a publicly available exercise recognition dataset collected with 30 subjects performing 7 different physiotherapy exercises. The MEx dataset has 934 data samples from the pressure mat subset of the MEx dataset. Each client has a random amount of samples for only 2 exercise classes. A pressure mat data sample contains a sequence of heat maps (size 5 x 16 x 16) recorded for 5 seconds with 1Hz frequency. 
 
